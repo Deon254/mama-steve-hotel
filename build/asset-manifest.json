@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Mama-Steve-Hotel/static/css/main.898b58ad.chunk.css",
+    "main.js": "/Mama-Steve-Hotel/static/js/main.ce43152c.chunk.js",
+    "main.js.map": "/Mama-Steve-Hotel/static/js/main.ce43152c.chunk.js.map",
+    "runtime-main.js": "/Mama-Steve-Hotel/static/js/runtime-main.2ba2b742.js",
+    "runtime-main.js.map": "/Mama-Steve-Hotel/static/js/runtime-main.2ba2b742.js.map",
+    "static/css/2.ef393291.chunk.css": "/Mama-Steve-Hotel/static/css/2.ef393291.chunk.css",
+    "static/js/2.e07f520c.chunk.js": "/Mama-Steve-Hotel/static/js/2.e07f520c.chunk.js",
+    "static/js/2.e07f520c.chunk.js.map": "/Mama-Steve-Hotel/static/js/2.e07f520c.chunk.js.map",
+    "index.html": "/Mama-Steve-Hotel/index.html",
+    "static/css/2.ef393291.chunk.css.map": "/Mama-Steve-Hotel/static/css/2.ef393291.chunk.css.map",
+    "static/css/main.898b58ad.chunk.css.map": "/Mama-Steve-Hotel/static/css/main.898b58ad.chunk.css.map",
+    "static/js/2.e07f520c.chunk.js.LICENSE.txt": "/Mama-Steve-Hotel/static/js/2.e07f520c.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/Mama-Steve-Hotel/static/media/fa-solid-900.f4f93856.woff",
+    "static/media/mama-mboga.80e7a129.jpg": "/Mama-Steve-Hotel/static/media/mama-mboga.80e7a129.jpg",
+    "static/media/light-bootstrap-dashboard-react.scss?v=2.0.0": "/Mama-Steve-Hotel/static/media/nucleo-icons.e8827b8a.svg",
+    "static/media/reactlogo.55f6660b.png": "/Mama-Steve-Hotel/static/media/reactlogo.55f6660b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ba2b742.js",
+    "static/css/2.ef393291.chunk.css",
+    "static/js/2.e07f520c.chunk.js",
+    "static/css/main.898b58ad.chunk.css",
+    "static/js/main.ce43152c.chunk.js"
+  ]
+}
