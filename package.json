@@ -1,5 +1,5 @@
 {
-  "homepage":"https://Deon254.github.io/Mama-Steve-Hotel",
+  "homepage": "http://Deon254.github.io/mama-steve-hotel",
   "name": "mama-steve-hotel",
   "version": "2.0.0",
   "dependencies": {
@@ -35,7 +35,7 @@
     "typescript": "4.1.3"
   },
   "scripts": {
-    "predeploy":"npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "serverNode": "node./src/server.js",
