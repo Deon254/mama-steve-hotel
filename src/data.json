@@ -1,0 +1,53 @@
+[{
+  "id": "1",
+   "name": "Banana",
+    "price": "10 KSHS",
+    "quantity": "1"
+}, {
+  "id": "2",
+   "name": "Oranges",
+    "price": "15 KSHS",
+    "quantity": "1"
+}, {
+
+  "id": "3",
+   "name": "Pineapples",
+    "price": "25 KSHS",
+    "quantity": "1"
+    
+}, {
+ "id": "4",
+   "name": "Cabbage",
+    "price": "40 KSHS",
+    "quantity": "1"
+}, {
+
+  "id": "5",
+   "name": "Kales",
+    "price": "10 KSHS",
+    "quantity": "1"
+
+},{
+
+  "id": "6",
+   "name": "Goat",
+    "price": "300 KSHS",
+    "quantity": "1KG"
+
+ }, {
+
+  "id": "7",
+   "name": "Cow",
+    "price": "200 KSHS",
+    "quantity": "1KG"
+
+  }, {
+
+  "id": "8",
+   "name": "Pig",
+    "price": "400 KSHS",
+    "quantity": "1KG"
+}]
+ 
+
+
