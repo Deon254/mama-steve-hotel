@@ -1,7 +1,7 @@
 {
   "name": "mama-steve-hotel",
   "version": "2.0.0",
-  "homepage": "http://Deon254.github.io/mama-steve-hotel",
+  "homepage":"http://Deon254.github.io/mama-steve-hotel",
   "dependencies": {
     "@fortawesome/fontawesome-free": "5.15.2",
     "axios": "^0.21.1",
